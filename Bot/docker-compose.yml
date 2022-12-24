@@ -1,0 +1,9 @@
+version: "3"
+services:
+  bot:
+    build: .
+    image: n01dea/game_bot:latest
+networks:
+  default:
+    name: bridge-nerwork
+    external: true
