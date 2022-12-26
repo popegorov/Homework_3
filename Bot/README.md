@@ -1,9 +1,3 @@
-## Task - https://github.com/Palladain/Deep_Python/blob/main/Homeworks/Homework_4/HW_4_Python.ipynb
-
-## Bot - https://t.me/game_hw4_bot
-
-## Docker - https://hub.docker.com/r/n01dea/game_bot (bot is running on the server until 31.12)
-
 ## Functions:
 
 Welcome to our game! Here is the list of commands you can execute:
